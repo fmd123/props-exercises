@@ -1,4 +1,4 @@
-// this isn't functional
+
 //see:https://codepen.io/fmd123/pen/ZaeRJw
 
 class Avatar extends React.Component {
